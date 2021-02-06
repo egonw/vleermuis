@@ -141,3 +141,40 @@
 2400 GOTO 1310
 2410 :
 2420 'HARTJE OPGEHAALD
+2430 SOUND 7,&B111000: SOUND 6,0: SOUND 8.16
+2440 SOUND 1,1: SOUND 13,4
+2450 SC=SC+20:GOTO 1830
+2460 :
+2470 'EINDE
+2480 SCREEN 0,0: COLOR 15,4,5: LOCATE,,1
+2490 WIDTH 39: END
+2500 :
+2510 DATA "m                                      m"
+2520 DATA "m                                      m"
+2530 DATA "m   F1 : LANGZAAM                      m"
+2540 DATA "m                     VLEERMUIS ab     m"
+2550 DATA "m   F2 : SNEL                          m"
+2560 DATA "m                     ROTSBLOK  d      m"
+2570 DATA "m   F3 : SNELLER                       m"
+2580 DATA "m                     HARTJE    jq     m"
+2590 DATA "m   F3 : SNELST                        m"
+2600 DATA "m                                      m"
+2610 DATA "m                                      m"
+2620 DATA "m   F5 : STOPPEN                       m"
+2630 DATA "m                                      m"
+2640 DATA "m                                      m"
+2650 DATA "m   VLIEG DOOR DE GROT EN HAAL HARTJES m"
+2670 DATA "m   OP.VLIEG VOORAL NIET TEGEN ROTS-   m"
+2680 DATA "m   BLOKKEN OP. SUCCES .               m"
+2680 DATA "m                                      m"
+2690 DATA "m    LAATSTE SCORE : 000000            m"
+2700 DATA "m         HI-SCORE : 000000            m"
+2710 DATA "m                                      m"
+2720 DATA "mdg                                  idm"
+2730 DATA "mdddg                              idddm"
+2740 DATA "mdddddg                          idddddm"
+2750 DATA "mdddddddg                      idddddddm"
+2760 DATA "mdddddddf                      hdddddddm"
+2770 DATA "mddddddf   ig              ig   hddddddm"
+2780 DATA "mdddddf   idddg          idddg   hdddddm"
+
