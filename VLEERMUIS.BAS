@@ -269,5 +269,5 @@
 3680 DATA "md   jq    jq    jq    jq    jq   iddddm"
 3690 DATA "mdp   jq    jq    jq    jq    jq   idddm"
 3700 DATA "md     jq    jq    jq    jq    jq   iddm"
-3710 DATA "mdg  jq    jq    jq    jq    jq     idm"
+3710 DATA "mdg     jq    jq    jq    jq    jq   idm"
 3720 END
