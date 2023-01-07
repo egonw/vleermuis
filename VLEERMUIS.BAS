@@ -257,5 +257,17 @@
 3560 DATA "mddf        hddf        hddf        hddm"
 3570 DATA "mdf          hf          hf          hdm"
 3580 DATA "md                                    dm"
-
+3590 DATA "mdg jq hg jq hg jq hg jq hg jq kdddddddm"
+3600 DATA "mddg    hg    hg    hg    hg    hddddddm"
+3610 DATA "mdddg    hg    hg    hg    hg    hdddddm"
+3620 DATA "mddddp    hg    hg    hg    hg    dddddm"
+3630 DATA "mdddf    if    if    if    if    idddddm"
+3640 DATA "mddf    if    if    if    if    iddddddm"
+3650 DATA "mdf    if    if    if    if    kdddddddm"
+3660 DATA "md jq iddjq iddjq iddjq iddjq   iddddddm"
+3670 DATA "mdp jq B  jq O  jq N  jq U  jq S idddddm"
+3680 DATA "md   jq    jq    jq    jq    jq   iddddm"
+3690 DATA "mdp   jq    jq    jq    jq    jq   idddm"
+3700 DATA "md     jq    jq    jq    jq    jq   iddm"
+3710 DATA "mdg  jq    jq    jq    jq    jq     idm"
 3720 END
